@@ -22,8 +22,8 @@ h2 {
 
 #main-heading {
     float: left;
-    font-size: 250%;
-    margin: 10px;
+    font-size: 260%;
+    margin-left: 20px;
 }
 
 #nav-headings {
@@ -57,4 +57,5 @@ h2 {
     height: 600px;
     width: 100%;
     background: url(../images/Staffies.jpg) no-repeat center center;
+    overflow: hidden;
 }
