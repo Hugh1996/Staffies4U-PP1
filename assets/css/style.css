@@ -23,7 +23,7 @@ h2 {
 #main-heading {
     float: left;
     font-size: 260%;
-    margin-left: 20px;
+    margin: 20px;
 }
 
 #nav-headings {
@@ -58,4 +58,46 @@ h2 {
     width: 100%;
     background: url(../images/Staffies.jpg) no-repeat center center;
     overflow: hidden;
+}
+
+/* About Staffies */
+
+#center-about {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 200%;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
+    width: 100%;
+}
+
+#about {
+    height: 600px;
+}
+
+#left-about {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+}
+
+.left-about-heading {
+    width: 80%;
+    float: right;
+    clear: both;
+    line-height: 20px;
+    margin: 20px;
+}
+
+#right-about {
+    margin: 0 auto;
+    height: 400px;
+    width: 400px;
+    border: 1px solid #3a3a3a;
+    border-radius: 50%;
+    float: right;
+    margin-right: 10%;
 }
