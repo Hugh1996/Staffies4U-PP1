@@ -93,7 +93,6 @@ hr {
 }
 
 #right-about {
-    margin: 0 auto;
     height: 400px;
     width: 400px;
     border: 1px solid #3a3a3a;
@@ -101,4 +100,40 @@ hr {
     float: right;
     margin-right: 10%;
     background: url(../images/babystaffy.PNG) no-repeat center center;
+}
+
+/* Our Staffies */
+
+#center-our {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-size: 200%;
+}
+
+#our {
+    height: 800px;
+}
+
+#left-dog-picture {
+    float: left;
+    height: 250px;
+    width: 200px;
+    border: 1px solid #3a3a3a;
+    margin-left: 200px;
+}
+
+#right-dog-picture {
+    float: right;
+    height: 250px;
+    width: 200px;
+    border: 1px solid #3a3a3a;
+    margin-right: 200px;
+}
+
+#center-dog-picture {
+    height: 250px;
+    width: 200px;
+    border: 1px solid #3a3a3a;
+    margin: 0 auto;
 }
