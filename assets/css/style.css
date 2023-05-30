@@ -79,7 +79,7 @@ hr {
 }
 
 #about-staffies {
-    height: 800px;
+    height: 600px;
 }
 
 #left-about {
@@ -116,7 +116,7 @@ hr {
 }
 
 #our-staffies {
-    height: 800px;
+    height: 600px;
 }
 
 #left-dog-picture {
@@ -165,9 +165,30 @@ hr {
 
 #center-adopt {
     text-align: center;
-    height: 600px;
 }
 
 #adopt-a-staffy {
-    height: 800px;
+    height: 600px;
+    text-align: center;
+}
+
+#asap {
+    margin-top: 50px;
+}
+
+/* Footer */
+
+.social-media {
+    text-align: center;
+}
+
+.social-media>li {
+    display: inline;
+}
+
+.social-media i {
+    font-size: 160%;
+    margin-top: 1%;
+    padding: 5%;
+    color: #3a3a3a;
 }
