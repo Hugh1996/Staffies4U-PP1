@@ -10,6 +10,10 @@ body {
     color: #3a3a3a;
 }
 
+#main {
+    height: 800px;
+}
+
 /* headings */
 
 h1,
@@ -74,8 +78,8 @@ hr {
     width: 100%;
 }
 
-#about {
-    height: 600px;
+#about-staffies {
+    height: 800px;
 }
 
 #left-about {
@@ -111,7 +115,7 @@ hr {
     font-size: 200%;
 }
 
-#our {
+#our-staffies {
     height: 800px;
 }
 
@@ -155,4 +159,15 @@ hr {
 .center-dog {
     text-align: center;
     margin-top: 30px;
+}
+
+/* Adopt a Staffy */
+
+#center-adopt {
+    text-align: center;
+    height: 600px;
+}
+
+#adopt-a-staffy {
+    height: 800px;
 }
