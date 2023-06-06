@@ -101,8 +101,8 @@ hr {
     width: 400px;
     border: 1px solid #3a3a3a;
     border-radius: 50%;
+    margin: 10%;
     float: right;
-    margin-right: 10%;
     background: url(../images/babystaffy.PNG) no-repeat center center;
 }
 
@@ -224,4 +224,10 @@ ul {
 
 footer h3 {
     text-align: center;
+}
+
+footer>p {
+    text-align: right;
+    padding: 10px;
+    margin: 10px;
 }
