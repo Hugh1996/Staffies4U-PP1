@@ -16,6 +16,10 @@ body {
 
 /* headings */
 
+header {
+    background-color: yellowgreen;
+}
+
 h1,
 h2 {
     font-family: 'Open Sans', sans-serif;
@@ -58,7 +62,7 @@ h2 {
 /* Main Image */
 
 #main-image {
-    height: 600px;
+    height: 800px;
     width: 100%;
     background: url(../images/Staffies.jpg) no-repeat center center;
     overflow: hidden;
@@ -80,6 +84,7 @@ hr {
 
 #about-staffies {
     height: 900px;
+    background-color: yellowgreen;
 }
 
 #left-about {
@@ -116,7 +121,8 @@ hr {
 }
 
 #our-staffies {
-    height: 900px;
+    height: 800px;
+    background-color: yellowgreen;
 }
 
 #left-dog-picture {
@@ -197,15 +203,30 @@ ul {
 }
 
 #adopt-a-staffy {
-    height: 600px;
+    height: 800px;
     text-align: center;
+    background-color: yellowgreen;
 }
 
 #asap {
-    margin-top: 50px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+label {
+    margin: 10px 10px 5px 0;
+}
+
+.block-label {
+    display: block;
 }
 
 /* Footer */
+
+footer {
+    background-color: yellowgreen;
+}
 
 .social-media {
     text-align: center;
@@ -230,10 +251,4 @@ footer>p {
     text-align: left;
     padding: 5px;
     margin: 5px;
-}
-
-#asap {
-    text-align: center;
-    padding: 20px;
-    margin: 20px;
 }
