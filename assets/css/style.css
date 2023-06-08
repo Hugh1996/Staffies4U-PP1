@@ -58,7 +58,7 @@ h2 {
 /* Main Image */
 
 #main-image {
-    height: 800px;
+    height: 600px;
     width: 100%;
     background: url(../images/Staffies.jpg) no-repeat center center;
     overflow: hidden;
@@ -68,8 +68,8 @@ h2 {
 
 #center-about {
     text-align: center;
-    padding-top: 100px;
     font-size: 200%;
+    padding-bottom: 20px;
 }
 
 hr {
@@ -111,7 +111,7 @@ hr {
 #center-our {
     text-align: center;
     font-size: 200%;
-    padding-top: 100px;
+    padding-top: 20px;
     padding-bottom: 50px;
 }
 
@@ -195,7 +195,6 @@ ul {
 #center-adopt {
     text-align: center;
     font-size: 200%;
-    padding-top: 100px;
 }
 
 #adopt-a-staffy {
