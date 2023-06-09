@@ -16,6 +16,10 @@ body {
 
 /* headings */
 
+header {
+    background: yellowgreen;
+}
+
 h1,
 h2 {
     font-family: 'Open Sans', sans-serif;
@@ -124,7 +128,7 @@ hr {
     height: 250px;
     width: 200px;
     border: 1px solid #3a3a3a;
-    margin-left: 150px;
+    margin-left: 12%;
 }
 
 #right-dog-picture {
@@ -132,7 +136,7 @@ hr {
     height: 250px;
     width: 200px;
     border: 1px solid #3a3a3a;
-    margin-right: 150px;
+    margin-right: 12%;
 }
 
 #center-dog-picture {
@@ -184,7 +188,8 @@ h3 {
 img {
     height: 250px;
     width: 200px;
-    transition: transform 0.3s ease;
+    transition: transform 0.4s ease;
+    /* Slows hover effect */
 }
 
 img:hover {
@@ -280,11 +285,13 @@ footer {
 }
 
 .social-media i {
-    font-size: 220%;
+    font-size: 200%;
     margin-top: 1%;
     padding: 5%;
     color: #3a3a3a;
     cursor: pointer;
+    transition: transform 0.4s ease;
+    /* Slows hover effect */
 }
 
 .social-media i:hover {
@@ -294,10 +301,12 @@ footer {
 
 footer h3 {
     text-align: center;
+    font-size: 140%;
+    padding-top: 100px;
 }
 
 footer>p {
-    text-align: left;
+    text-align: center;
     padding: 5px;
     margin: 5px;
 }
