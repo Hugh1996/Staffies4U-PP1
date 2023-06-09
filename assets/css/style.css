@@ -41,6 +41,11 @@ h2 {
     color: white;
 }
 
+h1>p {
+    color: white;
+    font-size: 40%;
+}
+
 #nav-headings {
     font-size: 110%;
     letter-spacing: 2px;
@@ -75,6 +80,7 @@ h2 {
     background: url(../images/Staffies.jpg) no-repeat center center;
     /* Main image */
     overflow: hidden;
+    padding-top: 60px;
 }
 
 /* About Staffies */
