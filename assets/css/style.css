@@ -101,7 +101,7 @@ hr {
     width: 400px;
     border: 1px solid #3a3a3a;
     border-radius: 50%;
-    margin: 10%;
+    margin: 100px 250px 0 0;
     float: right;
     background: url(../images/babystaffy.PNG) no-repeat center center;
 }
@@ -140,14 +140,6 @@ hr {
     width: 200px;
     border: 1px solid #3a3a3a;
     margin: 0 auto;
-}
-
-img {
-    transition: transform 0.3s ease;
-}
-
-img:hover {
-    transform: scale(1.2);
 }
 
 .left-dog h3 {
@@ -192,6 +184,11 @@ h3 {
 img {
     height: 250px;
     width: 200px;
+    transition: transform 0.3s ease;
+}
+
+img:hover {
+    transform: scale(1.2);
 }
 
 ul {
@@ -199,6 +196,7 @@ ul {
 }
 
 /* Adopt a Staffy Form */
+
 
 #center-adopt {
     text-align: center;
