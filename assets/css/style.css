@@ -360,10 +360,6 @@ footer>p {
         float: right;
     }
 
-    #about-staffies {
-        height: 1000px;
-    }
-
     #left-about {
         display: flex;
         flex-direction: column;
@@ -371,7 +367,21 @@ footer>p {
     }
 
     #right-about {
-        margin: 250px 100px 100px 0;
+        margin: 250px 180px 0 0;
     }
+}
 
+#our-staffies {
+    margin-top: 400px;
+}
+
+#left-dog-picture,
+#right-dog-picture,
+#center-dog-picture {
+    display: flex;
+    flex-direction: row;
+}
+
+#adopt-a-staffy {
+    margin-top: 200px;
 }
