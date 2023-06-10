@@ -78,10 +78,10 @@ h1>p {
 #main-image {
     height: 600px;
     width: 100%;
-    background: url(../images/Staffies.jpg) no-repeat center center;
-    /* Main image */
+    background: url(../images/Staffymain.jpeg) no-repeat center center;
     overflow: hidden;
     padding-top: 60px;
+    border-radius: 10px;
 }
 
 /* About Staffies */
@@ -120,7 +120,7 @@ hr {
 #right-about {
     height: 400px;
     width: 400px;
-    border: 1px solid #3a3a3a;
+    border: 1px solid white;
     border-radius: 50%;
     margin: 100px 250px 0 0;
     float: right;
@@ -134,7 +134,7 @@ hr {
     text-align: center;
     font-size: 200%;
     padding: 60px 0 50px 0;
-    color: black;
+    color: white;
 }
 
 #our-staffies {
@@ -145,23 +145,30 @@ hr {
     float: left;
     height: 250px;
     width: 200px;
-    border: 1px solid #3a3a3a;
+    border: 1px solid white;
     margin-left: 12%;
+    border-radius: 10px;
 }
 
 #right-dog-picture {
     float: right;
     height: 250px;
     width: 200px;
-    border: 1px solid #3a3a3a;
+    border: 1px solid white;
     margin-right: 12%;
+    border-radius: 10px;
 }
 
 #center-dog-picture {
     height: 250px;
     width: 200px;
-    border: 1px solid #3a3a3a;
+    border: 1px solid white;
     margin: 0 auto;
+    border-radius: 10px;
+}
+
+.round-image {
+    border-radius: 10px;
 }
 
 .left-dog h3 {
@@ -390,9 +397,6 @@ footer>p {
     padding-top: 120px;
 }
 
-hr {
-    display: none;
-}
 
 /* For medium screen sizes from 950px wide and down */
 
