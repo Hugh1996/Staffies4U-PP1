@@ -117,6 +117,8 @@ hr {
     margin: 20px;
 }
 
+/* Image for About Staffies section */
+
 #right-about {
     height: 400px;
     width: 400px;
@@ -125,7 +127,6 @@ hr {
     margin: 100px 250px 0 0;
     float: right;
     background: url(../images/babystaffy.PNG) no-repeat center center;
-    /* Image for About Staffies section */
 }
 
 /* Our Staffies */
@@ -134,7 +135,7 @@ hr {
     text-align: center;
     font-size: 200%;
     padding: 60px 0 50px 0;
-    color: white;
+    color: black;
 }
 
 #our-staffies {
@@ -447,4 +448,48 @@ footer>p {
 
 /* For medium screen sizes from 600px wide and down */
 
-@media screen and (max-width: 600px) {}
+@media screen and (max-width: 600px) {
+    #main-heading {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    #nav-headings {
+        text-align: center;
+    }
+
+    #main-image {
+        height: 400px;
+        width: 100%;
+        background: cover;
+    }
+
+    #left-about {
+        width: 100%;
+    }
+
+    #right-about {
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+
+    #left-dog-picture,
+    #right-dog-picture,
+    #center-dog-picture {
+        display: flex;
+        flex-direction: row;
+        width: 60px;
+        height: 80px;
+        margin: 0 auto;
+    }
+
+    .left-dog,
+    .right-dog,
+    .center-dog {
+        display: flex;
+        flex-direction: row;
+        margin: 0 auto;
+        width: 100%;
+    }
+}
