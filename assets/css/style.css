@@ -295,7 +295,8 @@ input[type="submit"]:hover {
 /* Footer */
 
 footer {
-    background-color: #B35642
+    background-color: #B35642;
+    height: 600px;
 }
 
 .social-media {
@@ -334,4 +335,43 @@ footer>p {
     padding: 5px;
     margin: 5px;
     color: white;
+}
+
+/* Media queries */
+
+/* For extralarge devices (large laptops and desktops, 1200px and down) */
+
+@media screen and (max-width: 1200px) {
+    header {
+        text-align: center;
+    }
+
+    #main-heading {
+        font-size: 30px
+    }
+
+    body {
+        font-size: 18px;
+    }
+
+    #nav-headings ul {
+        display: flex;
+        flex-direction: row;
+        float: right;
+    }
+
+    #about-staffies {
+        height: 1000px;
+    }
+
+    #left-about {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 50px;
+    }
+
+    #right-about {
+        margin: 250px 100px 100px 0;
+    }
+
 }
