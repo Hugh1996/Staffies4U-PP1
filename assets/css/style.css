@@ -405,6 +405,8 @@ hr {
 
     #nav-headings {
         font-size: 80%;
+        clear: left;
+        float: left;
     }
 
     body {
@@ -438,3 +440,7 @@ hr {
         display: none;
     }
 }
+
+/* For medium screen sizes from 600px wide and down */
+
+@media screen and (max-width: 600px) {}
