@@ -89,7 +89,7 @@ h1>p {
 #center-about {
     text-align: center;
     font-size: 200%;
-    padding: 20px 0 20px 0;
+    padding: 100px 0 30px 0;
     color: black;
 }
 
@@ -231,7 +231,6 @@ ul {
 }
 
 #adopt-a-staffy {
-    padding-top: 100px;
     height: 800px;
     text-align: center;
 }
@@ -372,7 +371,7 @@ footer>p {
 }
 
 #our-staffies {
-    margin-top: 400px;
+    margin-top: 450px;
 }
 
 #left-dog-picture,
@@ -383,5 +382,5 @@ footer>p {
 }
 
 #adopt-a-staffy {
-    margin-top: 200px;
+    padding-top: 250px;
 }
