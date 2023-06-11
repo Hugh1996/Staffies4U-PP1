@@ -41,6 +41,13 @@ h2 {
     color: white;
 }
 
+#second-heading {
+    color: white;
+    float: left;
+    margin-top: 80px;
+    text-align: center;
+}
+
 h1>p {
     color: white;
     font-size: 40%;
@@ -408,6 +415,11 @@ footer>p {
         padding: 20px;
     }
 
+    #second-heading {
+        font-size: 90%;
+        float: left;
+    }
+
     #nav-headings {
         font-size: 80%;
         clear: left;
@@ -450,7 +462,14 @@ footer>p {
 
 @media screen and (max-width: 600px) {
     #main-heading {
+        margin: 0 auto;
         font-size: 24px;
+        float: left;
+        margin-bottom: 40px;
+    }
+
+    #second-heading {
+        margin: 0 auto;
         text-align: center;
     }
 
