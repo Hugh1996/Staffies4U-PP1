@@ -64,6 +64,12 @@ Enter our staffies image here
 
 Enter form image here.
 
+### Footer
+
+- The footer provides the user links to access the organisations social media on Facebook, Youtube, Instagram and Twitter. 
+
+- It also provides the user with contact details for the organisation should they wish to inquire directly. 
+
 ### Features left to implement 
 
 - The addition of a second page to show the user previously successful adoption stories, consisting of a photo gallery and brief summary which the user can browse through. 
@@ -72,3 +78,20 @@ Enter form image here.
 
 ## Testing
 
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page to ensure no errors occurred. 
+
+[W3C CSS Validator Result](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhugh1996.github.io%2FStaffies4U-PP1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+[W3C Markup Validator Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhugh1996.github.io%2FStaffies4U-PP1%2F)
+
+- I tested this page works in different browsers: Google Chrome, Microsoft Edge.
+
+- To confirm responsiveness. 
+
+- I confirmed the navigation links work and are easily readable. 
+
+- I confirmed the form and its submit button works. 
+
+- I confirmed the social media links work. 
+
+- Friends and family confirmed the site color scheme and font style works well together. 
