@@ -44,7 +44,7 @@ h2 {
 #second-heading {
     color: white;
     float: left;
-    margin-top: 80px;
+    padding: 40px 0;
     text-align: center;
 }
 
@@ -369,6 +369,11 @@ footer>p {
         font-size: 25px
     }
 
+    #second-heading {
+        padding: 30px 0;
+        font-size: 15px
+    }
+
     body {
         font-size: 15px;
     }
@@ -416,8 +421,9 @@ footer>p {
     }
 
     #second-heading {
-        font-size: 90%;
+        font-size: 80%;
         float: left;
+        padding: 30px 0;
     }
 
     #nav-headings {
@@ -466,15 +472,20 @@ footer>p {
         font-size: 24px;
         float: left;
         margin-bottom: 40px;
+        padding: 0;
     }
 
     #second-heading {
+        font-size: 80%;
         margin: 0 auto;
         text-align: center;
+        padding: 0;
     }
 
     #nav-headings {
+        margin: 0 auto;
         text-align: center;
+        padding: 0;
     }
 
     #main-image {
