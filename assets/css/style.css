@@ -91,6 +91,10 @@ h1>p {
     border-radius: 10px;
 }
 
+.round-image {
+    border-radius: 10px;
+}
+
 /* About Staffies */
 
 #center-about {
