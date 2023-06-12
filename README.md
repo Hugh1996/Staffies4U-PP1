@@ -20,7 +20,7 @@ Enter responsiveness screenshot here
 
 - The navigation tells the user the name of the website and organisation, the organisations purpose and makes different sections of information easy to find.
 
-![Navigation bar](images2/navigation.jpg)
+![Navigation bar](./images2/navigation.jpg)
 
 ### Main Image
 
@@ -28,7 +28,7 @@ Enter responsiveness screenshot here
 
 - The contrast of the outdoor image on the terracotta background immediately catches the users attention.
 
-![Main Image](images2/mainimage.jpg)
+![Main Image](./images2/mainimage.jpg)
 
 ### About Staffies Section
 
@@ -36,7 +36,7 @@ Enter responsiveness screenshot here
 
 - This section aims to inform and educate the user about the breed, their benefits and their needs. This motentially helps the user to consider adopting a staffy.
 
-![About Staffies](images2/aboutstaffies.jpg)
+![About Staffies](./images2/aboutstaffies.jpg)
 
 ### Our Staffies Section
 
@@ -46,7 +46,7 @@ Enter responsiveness screenshot here
 
 - This section assists the user in making an informed decision and potentially take the next step in adopting a staffy.
 
-![Our Staffies](images2/ourstaffies.jpg)
+![Our Staffies](./images2/ourstaffies.jpg)
 
 ### Adopt a Staffy
 
@@ -60,7 +60,7 @@ Enter responsiveness screenshot here
 
 - The user is provided with an optional field where they can provide additional information about themselves. This helps the organisation assess potential adopters and ensure the dog and potential adopter are compatible.
 
-![Adoption Form](images2/form.jpg)
+![Adoption Form](./images2/form.jpg)
 
 ### Footer
 
@@ -68,7 +68,7 @@ Enter responsiveness screenshot here
 
 - It also provides the user with contact details for the organisation should they wish to inquire directly.
 
-![Footer Section](images2/footer.jpg)
+![Footer Section](./images2/footer.jpg)
 
 ### Features left to implement
 
