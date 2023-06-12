@@ -1,7 +1,5 @@
 # Staffy Haven
 
-[View the live website here](https://hugh1996.github.io/Staffies4U-PP1/)
-
 Staffy Havens aim is to educate the public about the Staffordshire Terrier breed, rescue and rehabilitate staffies and facilitate adoptions.
 
 Users of this website will have to opprrtunity to learn about the breeds popularity, temperament and their specific needs. Users will also be able to view the profiles of staffies available for adoption. If a user is interested in rescuing a staffy, they can inquire using the provided contact details or by filling out the form.
@@ -84,6 +82,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 [W3C Markup Validator Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhugh1996.github.io%2FStaffies4U-PP1%2F)
 
+Add lighthouse testing
+
 ### Further Testing
 
 - I tested this page works in different browsers: Google Chrome, Microsoft Edge.
@@ -97,3 +97,27 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - I confirmed the social media links work. 
 
 - Friends and family confirmed the site color scheme and font style works well together. 
+
+### Deployment
+
+The site was deployed using GitHub. To deploy, follow the below steps;
+
+- In the repository, click on 'Settings'.
+- Scroll down on the left hand side and select 'Pages'.
+- Here will you will find a link to the live webpage. View the live website here - [Staffy Haven](https://hugh1996.github.io/Staffies4U-PP1/).
+
+### Credits
+
+#### Content
+
+- The code used for social media links was taken from the Code Institute Love Running walkthrough project. 
+
+- Text content for "About Staffies" section taken from sources [Wikipedia](https://www.wikipedia.org/) and [Staffie Rescue UK](https://www.staffierescue.co.uk/).
+
+#### Media
+
+- The main image and the image for the "About Staffies" section were both taken from [Pexels](https://www.pexels.com/).
+
+- Credit to my three family dogs and their backgrounds for the images and text content in the "Our Staffies" section. 
+
+- Icons for social media links taken from [Font Awesome](https://fontawesome.com/).
