@@ -20,7 +20,7 @@ Enter responsiveness screenshot here
 
 - The navigation tells the user the name of the website and organisation, the organisations purpose and makes different sections of information easy to find.
   
-Enter nav image here
+![Navigation bar](../Staffies4U-PP1/assets/images/Navigation.JPG)
 
 ### Main Image
 
@@ -28,7 +28,7 @@ Enter nav image here
 
 - The contrast of the outdoor image on the terracotta background immediately catches the users attention.
 
-Enter main image here
+![Main Image](../Staffies4U-PP1/assets/images/Mainimage.JPG)
 
 ### About Staffies Section
 
@@ -36,7 +36,7 @@ Enter main image here
 
 - This section aims to inform and educate the user about the breed, their benefits and their needs. This motentially helps the user to consider adopting a staffy. 
 
-Enter about staffies image here
+![About Staffies](../Staffies4U-PP1/assets/images/Aboutstaffies.JPG)
 
 ### Our Staffies Section
 
@@ -46,7 +46,7 @@ Enter about staffies image here
 
 - This section assists the user in making an informed decision and potentially take the next step in adopting a staffy. 
 
-Enter our staffies image here
+![Our Staffies](../Staffies4U-PP1/assets/images/Ourstaffies.JPG)
 
 ### Adopt a Staffy
 
@@ -60,13 +60,15 @@ Enter our staffies image here
 
 - The user is provided with an optional field where they can provide additional information about themselves. This helps the organisation assess potential adopters and ensure the dog and potential adopter are compatible. 
 
-Enter form image here.
+![Adoption Form](../Staffies4U-PP1/assets/images/Form.JPG)
 
 ### Footer
 
 - The footer provides the user links to access the organisations social media on Facebook, Youtube, Instagram and Twitter. 
 
 - It also provides the user with contact details for the organisation should they wish to inquire directly. 
+
+![Footer Section](../Staffies4U-PP1/assets/images/Footer.JPG)
 
 ### Features left to implement 
 
@@ -113,7 +115,7 @@ The site was deployed using GitHub. To deploy, follow the below steps;
 - HTML5
 - CSS3
   
-### Libraries & Programs
+#### Libraries & Programs
 
 - Font Awesome
 - Google Fonts
