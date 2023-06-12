@@ -19,66 +19,66 @@ Enter responsiveness screenshot here
 - The navigation font color is white to contrast with the background.
 
 - The navigation tells the user the name of the website and organisation, the organisations purpose and makes different sections of information easy to find.
-  
-![Navigation bar](../Staffies4U-PP1/assets/images/Navigation.JPG)
+
+![Navigation bar](assets/images/Navigation.JPG)
 
 ### Main Image
 
-- The main image is the first thing a user sees and is situated below the navigation. It depicts a Staffordshire Terrier to let to reinforce that the page is for this breed. 
+- The main image is the first thing a user sees and is situated below the navigation. It depicts a Staffordshire Terrier to let to reinforce that the page is for this breed.
 
 - The contrast of the outdoor image on the terracotta background immediately catches the users attention.
 
-![Main Image](../Staffies4U-PP1/assets/images/Mainimage.JPG)
+![Main Image](assets/images/Mainimage.JPG)
 
 ### About Staffies Section
 
-- The "About Staffies" section provides valuable information to users regarding the popularity, temperament and energy levels and exercise of the breed. 
+- The "About Staffies" section provides valuable information to users regarding the popularity, temperament and energy levels and exercise of the breed.
 
-- This section aims to inform and educate the user about the breed, their benefits and their needs. This motentially helps the user to consider adopting a staffy. 
+- This section aims to inform and educate the user about the breed, their benefits and their needs. This motentially helps the user to consider adopting a staffy.
 
-![About Staffies](../Staffies4U-PP1/assets/images/Aboutstaffies.JPG)
+![About Staffies](assets/images/Aboutstaffies.JPG)
 
 ### Our Staffies Section
 
-- The "Our Staffies" section serves as a platoorm to show the user which dogs are available for adoption. 
+- The "Our Staffies" section serves as a platoorm to show the user which dogs are available for adoption.
 
-- Each dog is accompanied by a photograph along with a short summary. This summary includes information on the dogs background, personality and individual requirements.  
+- Each dog is accompanied by a photograph along with a short summary. This summary includes information on the dogs background, personality and individual requirements.
 
-- This section assists the user in making an informed decision and potentially take the next step in adopting a staffy. 
+- This section assists the user in making an informed decision and potentially take the next step in adopting a staffy.
 
-![Our Staffies](../Staffies4U-PP1/assets/images/Ourstaffies.JPG)
+![Our Staffies](assets/images/Ourstaffies.JPG)
 
 ### Adopt a Staffy
 
-- The "Adopt a Staffy" section provides the user with a means to inquire about a specific staffy available for adoption. 
+- The "Adopt a Staffy" section provides the user with a means to inquire about a specific staffy available for adoption.
 
 - The user must provide their name. This helps the organisation personalize their communication.
 
 - The user must provide their email address. This helps the organisation to communicate with their user regarding their adoption query.
 
-- The user must select which available staffy they are interested in. This helps the organisation understand the users preferences and focus on the specific staffy they desire. 
+- The user must select which available staffy they are interested in. This helps the organisation understand the users preferences and focus on the specific staffy they desire.
 
-- The user is provided with an optional field where they can provide additional information about themselves. This helps the organisation assess potential adopters and ensure the dog and potential adopter are compatible. 
+- The user is provided with an optional field where they can provide additional information about themselves. This helps the organisation assess potential adopters and ensure the dog and potential adopter are compatible.
 
-![Adoption Form](../Staffies4U-PP1/assets/images/Form.JPG)
+![Adoption Form](assets/images/Form.JPG)
 
 ### Footer
 
-- The footer provides the user links to access the organisations social media on Facebook, Youtube, Instagram and Twitter. 
+- The footer provides the user links to access the organisations social media on Facebook, Youtube, Instagram and Twitter.
 
-- It also provides the user with contact details for the organisation should they wish to inquire directly. 
+- It also provides the user with contact details for the organisation should they wish to inquire directly.
 
-![Footer Section](../Staffies4U-PP1/assets/images/Footer.JPG)
+![Footer Section](assets/images/Footer.JPG)
 
-### Features left to implement 
+### Features left to implement
 
-- The addition of a second page to show the user previously successful adoption stories, consisting of a photo gallery and brief summary which the user can browse through. 
+- The addition of a second page to show the user previously successful adoption stories, consisting of a photo gallery and brief summary which the user can browse through.
 
-- The addition of checkbox on the bottom of the form for the user to select "Yes" or "No" to determine if the user would like to recieve additional content in relation to the Staffy breed. 
+- The addition of checkbox on the bottom of the form for the user to select "Yes" or "No" to determine if the user would like to recieve additional content in relation to the Staffy breed.
 
 ## Testing
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page to ensure no errors occurred. 
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page to ensure no errors occurred.
 
 [W3C CSS Validator Result](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhugh1996.github.io%2FStaffies4U-PP1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
@@ -90,15 +90,15 @@ Add lighthouse testing
 
 - I tested this page works in different browsers: Google Chrome, Microsoft Edge.
 
-- To confirm responsiveness. 
+- To confirm responsiveness.
 
-- I confirmed the navigation links work and are easily readable. 
+- I confirmed the navigation links work and are easily readable.
 
-- I confirmed the form and its submit button works. 
+- I confirmed the form and its submit button works.
 
-- I confirmed the social media links work. 
+- I confirmed the social media links work.
 
-- Friends and family confirmed the site color scheme and font style works well together. 
+- Friends and family confirmed the site color scheme and font style works well together.
 
 ### Deployment
 
@@ -114,7 +114,7 @@ The site was deployed using GitHub. To deploy, follow the below steps;
 
 - HTML5
 - CSS3
-  
+
 #### Libraries & Programs
 
 - Font Awesome
@@ -127,7 +127,7 @@ The site was deployed using GitHub. To deploy, follow the below steps;
 
 #### Content
 
-- The code used for social media links was taken from the Code Institute Love Running walkthrough project. 
+- The code used for social media links was taken from the Code Institute Love Running walkthrough project.
 
 - Text content for "About Staffies" section taken from sources [Wikipedia](https://www.wikipedia.org/) and [Staffie Rescue UK](https://www.staffierescue.co.uk/).
 
@@ -135,6 +135,6 @@ The site was deployed using GitHub. To deploy, follow the below steps;
 
 - The main image and the image for the "About Staffies" section were both taken from [Pexels](https://www.pexels.com/).
 
-- Credit to my three family dogs and their backgrounds for the images and text content in the "Our Staffies" section. 
+- Credit to my three family dogs and their backgrounds for the images and text content in the "Our Staffies" section.
 
 - Icons for social media links taken from [Font Awesome](https://fontawesome.com/).
