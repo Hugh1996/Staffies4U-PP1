@@ -106,6 +106,21 @@ The site was deployed using GitHub. To deploy, follow the below steps;
 - Scroll down on the left hand side and select 'Pages'.
 - Here will you will find a link to the live webpage. View the live website here - [Staffy Haven](https://hugh1996.github.io/Staffies4U-PP1/).
 
+### Technologies Used
+
+#### Languages
+
+- HTML5
+- CSS3
+  
+### Libraries & Programs
+
+- Font Awesome
+- Google Fonts
+- Git
+- Codeanywhere
+- Github
+
 ### Credits
 
 #### Content
