@@ -16,7 +16,7 @@ Enter responsiveness screenshot here
 - ### Color Scheme
 
   - The main colors used are terracota and white. They work well together as a visually appealling aesthetic.
-- 
+
   - Terrecotta is used as the background color for the header, navigation bar and background for the main image. This provides a consistent color scheme that the user is first introduced to. The main image contrasts well with the background.
 
   - Terrecotta is used as the background color for the form elements. White is used for the input fields and works well with the white section background.to maintain readability.
@@ -51,11 +51,11 @@ Enter responsiveness screenshot here
 
 ![Main Image](./images2/mainimage.jpg)
 
-### About Staffies Section
+- ### About Staffies Section
 
-- The "About Staffies" section provides valuable information to users regarding the popularity, temperament and energy levels and exercise of the breed.
+  - The "About Staffies" section provides valuable information to users regarding the popularity, temperament and energy levels and exercise of the breed.
 
-- This section aims to inform and educate the user about the breed, their benefits and their needs. This motentially helps the user to consider adopting a staffy.
+  - This section aims to inform and educate the user about the breed, their benefits and their needs. This motentially helps the user to consider adopting a staffy.
 
 ![About Staffies](./images2/aboutstaffies.jpg)
 
@@ -121,28 +121,28 @@ Add lighthouse testing
 
   - Friends and family confirmed the site color scheme and font style works well together.
 
-- ## Deployment
+## Deployment
 
-  - The site was deployed using GitHub. To deploy, follow the below steps;
+- The site was deployed using GitHub. To deploy, follow the below steps;
 
-  - In the repository, click on 'Settings'.
-  - Scroll down on the left hand side and select 'Pages'.
-  - Here will you will find a link to the live webpage. View the live website here - [Staffy Haven](https://hugh1996.github.io/Staffies4U-PP1/).
+- In the repository, click on 'Settings'.
+- Scroll down on the left hand side and select 'Pages'.
+- Here will you will find a link to the live webpage. View the live website here - [Staffy Haven](https://hugh1996.github.io/Staffies4U-PP1/).
 
 ## Technologies Used
 
-### Languages
+- ### Languages
 
-- HTML5
-- CSS3
+  - HTML5
+  - CSS3
 
-### Libraries & Programs
+- ### Libraries & Programs
 
-- Font Awesome
-- Google Fonts
-- Git
-- Codeanywhere
-- Github
+  - Font Awesome
+  - Google Fonts
+  - Git
+  - Codeanywhere
+  - Github
 
 ## Credits
 
