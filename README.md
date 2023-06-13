@@ -57,7 +57,7 @@ Enter responsiveness screenshot here
 
   - The navigation tells the user the name of the website and organisation, the organisations purpose and makes different sections of information easy to find.
 
-![Navigation](./images2
+![Navigation](./images2/navigationbar.jpg)
 
 - ### Main Image
 

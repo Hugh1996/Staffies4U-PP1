@@ -585,8 +585,10 @@ footer>p {
         padding-bottom: 0px;
     }
 
-    #nav-headings {
+    #nav-headings li {
         margin: 0 auto;
+        font-size: 0.6rem;
+        padding: 0 5px 0 5px;
     }
 
     #about-staffies {
@@ -629,13 +631,13 @@ footer>p {
     #left-dog-picture,
     #right-dog-picture,
     #center-dog-picture {
-        height: 100px;
-        width: 80px;
+        height: 90px;
+        width: 70px;
     }
 
     img {
-        height: 100px;
-        width: 80px;
+        height: 90px;
+        width: 70px;
     }
 
 
@@ -650,7 +652,7 @@ footer>p {
     }
 
     .right-dog {
-        padding-right: 10px 20px 0 0;
+        padding: 10px 10px 0 0;
         font-size: 0.5rem;
     }
 
