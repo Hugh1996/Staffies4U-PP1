@@ -49,20 +49,21 @@ Enter responsiveness screenshot here
 
   - The navigation features the website title on the top left corner.
 
-  - There is a short line next to the heading that explains the purpose of the page to a first time user or repeat user of the website.
+  - There is a short line in the centre between the title and navigation links that explains the purpose of the page to a first time user or repeat user of the website.
 
-  - The other navigation links are to the right and include: About Staffies, Our Staffies and Adopt a Staffy which link to different sections on the same page.
+  - The navigation links are aligned centrally just above the main image and include: About Staffies, Our Staffies and Adopt a Staffy which link to different sections on the same page.
 
   - The navigation font color is white to contrast with the background.
 
   - The navigation tells the user the name of the website and organisation, the organisations purpose and makes different sections of information easy to find.
 
-![Navigation bar]
+![Navigation](./images2
+
 - ### Main Image
 
-  - The main image is the first thing a user sees and is situated below the navigation. It depicts a Staffordshire Terrier to let to reinforce that the page is for this breed.
+   - The main image is the first thing a user sees and is situated below the navigation. It depicts a Staffordshire Terrier to let to reinforce that the page is for this breed.
 
-  - The contrast of the outdoor image on the terracotta background immediately catches the users attention.
+   - The contrast of the outdoor image on the terracotta background immediately catches the users attention.
 
 ![Main Image](./images2/mainimage.jpg)
 
