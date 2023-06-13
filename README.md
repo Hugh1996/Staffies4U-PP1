@@ -4,7 +4,7 @@ Staffy Havens aim is to educate the public about the Staffordshire Terrier breed
 
 Users of this website will have to opprrtunity to learn about the breeds popularity, temperament and their specific needs. Users will also be able to view the profiles of staffies available for adoption. If a user is interested in rescuing a staffy, they can inquire using the provided contact details or by filling out the form.
 
-Enter responsiveness screenshot here
+!
 
 # User Experience (UX)
 
