@@ -57,8 +57,7 @@ Enter responsiveness screenshot here
 
   - The navigation tells the user the name of the website and organisation, the organisations purpose and makes different sections of information easy to find.
 
-![Navigation bar](./images2/navigation.jpg)
-
+![Navigation bar]
 - ### Main Image
 
   - The main image is the first thing a user sees and is situated below the navigation. It depicts a Staffordshire Terrier to let to reinforce that the page is for this breed.
