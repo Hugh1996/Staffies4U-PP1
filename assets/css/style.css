@@ -362,6 +362,7 @@ footer>p {
 @media (min-width: 1301px) {
 
     header {
+        font-size: 1.2rem;
         display: flex;
         flex-direction: column;
         text-align: center;
@@ -374,6 +375,10 @@ footer>p {
 
     #center-adopt {
         margin-top: 80px;
+    }
+
+    #right-about {
+        margin: 100px 200px 0 0;
     }
 }
 
