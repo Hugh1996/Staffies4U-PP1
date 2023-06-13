@@ -357,6 +357,26 @@ footer>p {
 
 /* Media queries */
 
+/* Extra large screens */
+
+@media (min-width: 1301px) {
+
+    header {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    #center-our {
+        margin-top: 100px;
+    }
+
+    #center-adopt {
+        margin-top: 80px;
+    }
+}
+
 /* Large screens (desktops, laptops) */
 
 @media (min-width: 992px) and (max-width: 1300px) {
