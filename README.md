@@ -139,6 +139,10 @@ I also confirmed the colors and font are easy to raad and accessible using light
 
   - Friends and family confirmed the site color scheme and font style works well together.
 
+## Bugs
+
+- When reviewing my README on github page, the images did not appear. I discovered this was due to using an absolute file path as opposed to a relative file path.
+
 ## Deployment
 
 - The site was deployed using GitHub. To deploy, follow the below steps;
