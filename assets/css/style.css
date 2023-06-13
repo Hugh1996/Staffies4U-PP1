@@ -16,7 +16,7 @@ p {
 }
 
 #main {
-    height: 800px;
+    height: 1000px;
     background-color: #B35642
 }
 
@@ -83,9 +83,11 @@ h1>p {
 /* Main Image */
 
 #main-image {
-    height: 600px;
+    height: 100%;
     width: 100%;
+    max-width: 100%;
     background: url(../images/staffymain.jpeg) no-repeat center center;
+    background-size: cover;
     overflow: hidden;
     padding-top: 60px;
     border-radius: 10px;
@@ -100,7 +102,7 @@ h1>p {
 #center-about {
     text-align: center;
     font-size: 200%;
-    padding: 60px 0 30px 0;
+    padding: 100px 0 30px 0;
     color: black;
 }
 
@@ -369,8 +371,12 @@ footer>p {
         margin: 0 auto;
     }
 
+    #nav-headings {
+        margin: 0 auto;
+    }
+
     #center-our {
-        margin-top: 100px;
+        margin-top: 150px;
     }
 
     #center-adopt {
@@ -392,6 +398,10 @@ footer>p {
         text-align: center;
     }
 
+    #nav-headings {
+        margin: 0 auto;
+    }
+
     #about-staffies {
         height: 1000px;
         margin-bottom: 80px;
@@ -400,21 +410,18 @@ footer>p {
 
     .left-about-heading {
         float: left;
-        clear: both;
-        line-height: 20px;
     }
 
     #right-about {
         height: 350px;
         width: 350px;
-        border: 1px solid white;
-        border-radius: 50%;
         margin: 300px 100px 0 0;
-        float: right;
+        background-size: cover;
     }
 
     #our-staffies {
         height: 1000px;
+        padding-top: 100px;
     }
 
     #adopt-a-staffy {
@@ -425,7 +432,56 @@ footer>p {
 
 /* Medium size screens (ipads, tablets) */
 
-@media (min-width: 481px) and (max-width: 991px) {}
+@media (min-width: 481px) and (max-width: 991px) {
+
+    header {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        font-size: 0.9rem;
+        padding: 0;
+        background-size: contain;
+    }
+
+    #main {
+        height: 400px;
+    }
+
+    #main-image {
+        background-size: contain;
+        height: 90%;
+        width: 100%;
+        margin: 0 auto;
+        padding-top: 0;
+    }
+
+    #second-heading {
+        padding-bottom: 0px;
+    }
+
+    #nav-headings {
+        margin: 0 auto;
+    }
+
+    #center-about {
+        font-size: 1.5rem;
+        padding: 50px 0 15px 0;
+    }
+
+    #left-about {
+        width: 100%;
+        font-size: 0.9rem;
+        padding-top: 0;
+    }
+
+    .left-about-heading {
+        float: left;
+    }
+
+    #right-about {
+        display: none;
+    }
+}
 
 /* Mobile screens */
 
