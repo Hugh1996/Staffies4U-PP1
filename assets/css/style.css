@@ -420,7 +420,7 @@ footer>p {
     }
 
     #our-staffies {
-        height: 800px;
+        height: 1000px;
         padding-top: 100px;
     }
 
@@ -499,7 +499,7 @@ footer>p {
     }
 
     #our-staffies {
-        height: 1000px;
+        height: 900px;
 
     }
 
@@ -520,11 +520,6 @@ footer>p {
         width: 120px;
     }
 
-    .left-dog,
-    .right-dog,
-    .center-dog {
-        font-size: 0.7rem;
-    }
 
     .left-dog {
         padding-left: 20px;
@@ -533,6 +528,10 @@ footer>p {
 
     .right-dog {
         padding-right: 20px;
+        font-size: 0.7rem;
+    }
+
+    .center-dog {
         font-size: 0.7rem;
     }
 
@@ -549,7 +548,7 @@ footer>p {
     }
 
     footer h3 {
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
 
     footer p {
@@ -560,4 +559,124 @@ footer>p {
 
 /* Mobile screens */
 
-@media (max-width: 480px) {}
+@media (max-width: 480px) {
+    header {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        font-size: 0.6rem;
+        padding: 0;
+        background-size: contain;
+    }
+
+    #main {
+        height: 400px;
+    }
+
+    #main-image {
+        background-size: contain;
+        height: 90%;
+        width: 100%;
+        margin: 0 auto;
+        padding-top: 0;
+    }
+
+    #second-heading {
+        padding-bottom: 0px;
+    }
+
+    #nav-headings {
+        margin: 0 auto;
+    }
+
+    #about-staffies {
+        height: 1000px;
+    }
+
+    #center-about {
+        font-size: 1rem;
+        padding: 50px 0 15px 0;
+    }
+
+    #left-about {
+        width: 100%;
+        font-size: 0.5rem;
+        padding-top: 0;
+    }
+
+    .left-about-heading {
+        float: left;
+    }
+
+    #right-about {
+        height: 180px;
+        width: 180px;
+        background-size: cover;
+        float: left;
+        margin: 20px 0 0 20px;
+    }
+
+    #our-staffies {
+        height: 900px;
+
+    }
+
+    #center-our {
+        font-size: 1rem;
+        padding-top: 0;
+    }
+
+    #left-dog-picture,
+    #right-dog-picture,
+    #center-dog-picture {
+        height: 100px;
+        width: 80px;
+    }
+
+    img {
+        height: 100px;
+        width: 80px;
+    }
+
+
+    .left-dog {
+        padding: 10px 0 0 20px;
+        font-size: 0.5rem;
+    }
+
+    .center-dog {
+        padding-top: 10px;
+        font-size: 0.5rem;
+    }
+
+    .right-dog {
+        padding-right: 10px 20px 0 0;
+        font-size: 0.5rem;
+    }
+
+    #adopt-a-staffy h2 {
+        font-size: 1rem;
+    }
+
+    #adopt-a-staffy p {
+        font-size: 0.6rem;
+    }
+
+    label {
+        font-size: 0.7rem;
+    }
+
+    textarea {
+        height: 130px;
+        width: 300px;
+    }
+
+    footer h3 {
+        font-size: 0.8rem;
+    }
+
+    footer p {
+        font-size: 0.7rem;
+
+    }
+}
