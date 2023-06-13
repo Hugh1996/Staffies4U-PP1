@@ -4,7 +4,7 @@ Staffy Havens aim is to educate the public about the Staffordshire Terrier breed
 
 Users of this website will have to opprrtunity to learn about the breeds popularity, temperament and their specific needs. Users will also be able to view the profiles of staffies available for adoption. If a user is interested in rescuing a staffy, they can inquire using the provided contact details or by filling out the form.
 
-!
+![Am I Responsive?](./images2/responsive.jpg)
 
 # User Experience (UX)
 
@@ -61,9 +61,9 @@ Users of this website will have to opprrtunity to learn about the breeds popular
 
 - ### Main Image
 
-   - The main image is the first thing a user sees and is situated below the navigation. It depicts a Staffordshire Terrier to let to reinforce that the page is for this breed.
+  - The main image is the first thing a user sees and is situated below the navigation. It depicts a Staffordshire Terrier to let to reinforce that the page is for this breed.
 
-   - The contrast of the outdoor image on the terracotta background immediately catches the users attention.
+  - The contrast of the outdoor image on the terracotta background immediately catches the users attention.
 
 ![Main Image](./images2/mainimage.jpg)
 
