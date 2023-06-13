@@ -9,23 +9,23 @@ Enter responsiveness screenshot here
 # User Experience (UX)
 
 - ## User Stories
-  
+
   - First Time Visitor Goals
 
     a. As a first time visitor, I want to be able to easily understand the main purpose of the website.
-    b. As a first time visitor, I want to be able to easily navigate through the site. 
-    c. As a first time visitor, I want to know what the site offers. 
-    d. As a first time visitor, I want to be able to locate their social media links to determine how trustworthy as an organisation they are. 
+    b. As a first time visitor, I want to be able to easily navigate through the site.
+    c. As a first time visitor, I want to know what the site offers.
+    d. As a first time visitor, I want to be able to locate their social media links to determine how trustworthy as an organisation they are.
 
   - Returning Visitor Goals
-    
+
     a. As a returning visitor, I want to see if there are any other staffies available for adoption.
-    b. As a returing visitor, I want the option to enquire about adoption should I be interested. 
+    b. As a returing visitor, I want the option to enquire about adoption should I be interested.
 
   - Frequent User Goals
 
-    a. As a frequent user, I want to see if there are any updates to the website such as more staffies available for adoption. 
-    c. As a frequent user, I want the option to easily contact the organisation. 
+    a. As a frequent user, I want to see if there are any updates to the website such as more staffies available for adoption.
+    c. As a frequent user, I want the option to easily contact the organisation.
 
 ## Design
 

@@ -356,3 +356,21 @@ footer>p {
 }
 
 /* Media queries */
+
+/* Large screens (desktops, laptops) */
+
+@media (min-width: 992px) and (max-width: 1300px) {
+
+}
+
+/* Medium size screens (ipads, tablets) */
+
+@media (min-width: 481px) and (max-width: 991px) {
+
+}
+
+/* Mobile screens */
+
+@media (max-width: 480px) {
+    
+}
