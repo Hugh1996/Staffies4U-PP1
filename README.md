@@ -123,7 +123,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 I also confirmed the colors and font are easy to raad and accessible using lighthouse in devtools.
 
-![Lighthouse](./images2/lighthouse.JPG)
+![Lighthouse](./images2/lighthouse.jpg)
 
 - ### Further Testing
 
