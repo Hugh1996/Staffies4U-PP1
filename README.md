@@ -149,7 +149,7 @@ I also confirmed the colors and font are easy to raad and accessible using light
 
 - In the repository, click on 'Settings'.
 - Scroll down on the left hand side and select 'Pages'.
-- Here will you will find a link to the live webpage. 
+- Here will you will find a link to the live webpage.
 - View the live website here - [Staffy Haven](https://hugh1996.github.io/Staffies4U-PP1/).
 
 ## Technologies Used
