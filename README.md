@@ -8,29 +8,29 @@ Users of this website will have to opprrtunity to learn about the breeds popular
 
 # User Experience (UX)
 
-- ## User Stories
+## User Stories
 
-  - First Time Visitor Goals
+- First Time Visitor Goals
 
-    a. As a first time visitor, I want to be able to easily understand the main purpose of the website.
+  - As a first time visitor, I want to be able to easily understand the main purpose of the website.
 
-    b. As a first time visitor, I want to be able to easily navigate through the site.
+  - As a first time visitor, I want to be able to easily navigate through the site.
 
-    c. As a first time visitor, I want to know what the site offers.
+  - As a first time visitor, I want to know what the site offers.
 
-    d. As a first time visitor, I want to be able to locate their social media links to determine how trustworthy as an organisation they are.
+  - As a first time visitor, I want to be able to locate their social media links to determine how trustworthy as an organisation they are.
 
-  - Returning Visitor Goals
+- Returning Visitor Goals
 
-    a. As a returning visitor, I want to see if there are any other staffies available for adoption.
+  - As a returning visitor, I want to see if there are any other staffies available for adoption.
 
-    b. As a returing visitor, I want the option to enquire about adoption should I be interested.
+  - As a returing visitor, I want the option to enquire about adoption should I be interested.
 
-  - Frequent User Goals
+- Frequent User Goals
 
-    a. As a frequent user, I want to see if there are any updates to the website such as more staffies available for adoption.
+  - As a frequent user, I want to see if there are any updates to the website such as more staffies available for adoption.
 
-    b. As a frequent user, I want the option to easily contact the organisation.
+  - As a frequent user, I want the option to easily contact the organisation.
 
 ## Design
 
@@ -129,6 +129,46 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 I also confirmed the colors and font are easy to raad and accessible using lighthouse in devtools.
 
 ![Lighthouse](./images2/lighthouse.jpg)
+
+### Testing User Stories from User Experience (UX)
+
+- ## User Stories
+
+- #### First Time Visitor Goals
+
+- As a first time visitor, I want to be able to easily understand the main purpose of the website.
+
+  - When first entering the site, the user is met with the page title, the organisations aim and a readable navigation bar.
+  - The organisations purpose is emphasised by the main image.
+
+- As a first time visitor, I want to be able to easily navigate through the site.
+
+  - The user may either use the navigation links or the scroll bar to move throughout the site.
+  - The easily readable navigation links show the user what section of the site it will direct them to upon clicking.
+
+- As a first time visitor, I want to know what the site offers.
+
+  - As the user navigates thoough the site, they will discover information about the breed, who is available for adoption and how to apply for adoption.
+
+  - As a first time visitor, I want to be able to locate their social media links to determine how trustworthy as an organisation they are.
+
+  - The user can access the social media links in the footer, to view the organisations various social media accounts and find out further information.
+
+- #### Returning Visitor Goals
+
+a. As a returning visitor, I want to see if there are any other staffies available for adoption.
+
+- The user can review the "Our Staffies" section which is updated regularly once new dogs have been resuced and rehabilitated.
+
+b. As a returing visitor, I want the option to enquire about adoption should I be interested.
+
+- The user has the option to enquire about a particular staffy by filling out the form or alternatively contact the organisation directly using the contact details in the footer.
+
+- Frequent User Goals
+
+  a. As a frequent user, I want to see if there are any updates to the website such as more staffies available for adoption.
+
+  b. As a frequent user, I want the option to easily contact the organisation.
 
 - ### Further Testing
 
