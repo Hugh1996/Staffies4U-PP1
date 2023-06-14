@@ -132,7 +132,7 @@ I also confirmed the colors and font are easy to read and accessible using light
 
 ### Testing User Stories from User Experience (UX)
 
-- ## User Stories
+- ### User Stories
 
 - #### First Time Visitor Goals
 
