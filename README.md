@@ -182,7 +182,7 @@ I also confirmed the colors and font are easy to raad and accessible using light
 
   - I tested this page works in different browsers: Google Chrome, Microsoft Edge.
 
-  - To confirm responsiveness.
+  - I confirmed the project is responsive on all standard screen sizes using devtools and [Am I Responsive?](https://ui.dev/amiresponsive).
 
   - I confirmed the navigation links work and are easily readable.
 
@@ -194,7 +194,7 @@ I also confirmed the colors and font are easy to raad and accessible using light
 
 ## Bugs
 
-- When reviewing my README on github page, the images did not appear. I discovered this was due to using an absolute file path as opposed to a relative file path.
+- When reviewing my README on github pages, the images did not appear. I discovered this was due to using an incorrect absolute file path as opposed to a relative file path.
 
 ## Deployment
 
