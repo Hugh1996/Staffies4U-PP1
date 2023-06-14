@@ -66,7 +66,7 @@ Users of this website will have to opprrtunity to learn about the breeds popular
 
 - ### Main Image
 
-  - The main image is the first thing a user sees and is situated below the navigation. It depicts a Staffordshire Terrier to let to reinforce that the page is for this breed.
+  - The main image is one of the first things a user sees and is situated below the navigation. It depicts a Staffordshire Terrier to reinforce that the page is for this breed.
 
   - The contrast of the outdoor image on the terracotta background immediately catches the users attention.
 
@@ -76,13 +76,13 @@ Users of this website will have to opprrtunity to learn about the breeds popular
 
   - The "About Staffies" section provides valuable information to users regarding the popularity, temperament and energy levels and exercise of the breed.
 
-  - This section aims to inform and educate the user about the breed, their benefits and their needs. This motentially helps the user to consider adopting a staffy.
+  - This section aims to inform and educate the user about the breed, their benefits and their needs. This potentially helps the user to consider adopting a staffy.
 
 ![About Staffies](./images2/aboutstaffies.jpg)
 
 - ### Our Staffies Section
 
-  - The "Our Staffies" section serves as a platoorm to show the user which dogs are available for adoption.
+  - The "Our Staffies" section serves as a platform to show the user which dogs are available for adoption.
 
   - Each dog is accompanied by a photograph along with a short summary. This summary includes information on the dogs background, personality and individual requirements.
 
@@ -126,7 +126,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 - [W3C Markup Validator Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhugh1996.github.io%2FStaffies4U-PP1%2F)
 
-I also confirmed the colors and font are easy to raad and accessible using lighthouse in devtools.
+I also confirmed the colors and font are easy to read and accessible using lighthouse in devtools.
 
 ![Lighthouse](./images2/lighthouse.jpg)
 
@@ -150,7 +150,7 @@ I also confirmed the colors and font are easy to raad and accessible using light
 
   - As the user navigates thoough the site, they will discover information about the breed, who is available for adoption and how to apply for adoption.
 
-  - As a first time visitor, I want to be able to locate their social media links to determine how trustworthy as an organisation they are.
+- As a first time visitor, I want to be able to locate their social media links to determine how trustworthy as an organisation they are.
 
   - The user can access the social media links in the footer, to view the organisations various social media accounts and find out further information about them.
 
@@ -166,17 +166,17 @@ I also confirmed the colors and font are easy to raad and accessible using light
 
   - The user can also contact the organisation directly using the contact details in the footer.
 
-- Frequent User Goals
+- #### Frequent User Goals
 
 - As a frequent user, I want to see if there are any updates to the website such as more staffies available for adoption.
 
-  - The user can review the "Our Staffies" section which is updated regularly once new dogs have been resuced and rehabilitated.
+  - The user can review the "Our Staffies" section which is updated regularly once new dogs have been rescued and rehabilitated.
 
 - As a frequent user, I want the option to easily contact the organisation.
 
   - The user has two options to get in touch with the organisation.
-  - They may complete the form.
-  - Contact details are located in the footer.
+  - They may complete the form and await a response.
+  - Get in touch using the contact details located in the footer.
 
 - ### Further Testing
 
