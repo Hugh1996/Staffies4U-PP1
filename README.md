@@ -145,11 +145,12 @@ I also confirmed the colors and font are easy to raad and accessible using light
 
 ## Deployment
 
-- The site was deployed using GitHub. To deploy, follow the below steps;
+- The site was deployed using GitHub Pages. To deploy, follow the below steps;
 
 - In the repository, click on 'Settings'.
 - Scroll down on the left hand side and select 'Pages'.
-- Here will you will find a link to the live webpage. View the live website here - [Staffy Haven](https://hugh1996.github.io/Staffies4U-PP1/).
+- Here will you will find a link to the live webpage. 
+- View the live website here - [Staffy Haven](https://hugh1996.github.io/Staffies4U-PP1/).
 
 ## Technologies Used
 
