@@ -20,8 +20,6 @@ p {
     background-color: #B35642
 }
 
-/* headings */
-
 header {
     background-color: #B35642
 }
@@ -80,8 +78,6 @@ h1>p {
     line-height: 75px;
 }
 
-/* Main Image */
-
 #main-image {
     height: 100%;
     width: 100%;
@@ -96,8 +92,6 @@ h1>p {
 .round-image {
     border-radius: 10px;
 }
-
-/* About Staffies */
 
 #center-about {
     text-align: center;
@@ -130,8 +124,6 @@ hr {
     margin: 20px;
 }
 
-/* Image for About Staffies section */
-
 #right-about {
     height: 400px;
     width: 400px;
@@ -141,8 +133,6 @@ hr {
     float: right;
     background: url(../images/babystaffy.png) no-repeat center center;
 }
-
-/* Our Staffies */
 
 #center-our {
     text-align: center;
@@ -229,20 +219,15 @@ img {
     height: 250px;
     width: 200px;
     transition: transform 0.4s ease;
-    /* Slows hover effect */
 }
 
 img:hover {
     transform: scale(1.2);
-    /* Adds hover to adoption staffy images */
 }
 
 ul {
     padding-top: 20px;
 }
-
-/* Adopt a Staffy Form */
-
 
 #center-adopt {
     text-align: center;
@@ -312,8 +297,6 @@ input[type="submit"]:hover {
     display: block;
 }
 
-/* Footer */
-
 footer {
     background-color: #B35642;
     height: 600px;
@@ -334,12 +317,10 @@ footer {
     color: white;
     cursor: pointer;
     transition: transform 0.4s ease;
-    /* Slows hover effect */
 }
 
 .social-media i:hover {
     transform: scale(1.2);
-    /* Adds hover to social media links */
 }
 
 footer h3 {
@@ -356,10 +337,6 @@ footer>p {
     margin: 5px;
     color: white;
 }
-
-/* Media queries */
-
-/* Extra large screens */
 
 @media (min-width: 1301px) {
 
@@ -387,8 +364,6 @@ footer>p {
         margin: 100px 200px 0 0;
     }
 }
-
-/* Large screens (desktops, laptops) */
 
 @media (min-width: 992px) and (max-width: 1300px) {
 
@@ -438,8 +413,6 @@ footer>p {
     }
 
 }
-
-/* Medium size screens (ipads, tablets) */
 
 @media (min-width: 481px) and (max-width: 991px) {
 
@@ -556,8 +529,6 @@ footer>p {
 
     }
 }
-
-/* Mobile screens */
 
 @media (max-width: 480px) {
     header {
